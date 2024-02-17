@@ -39,3 +39,22 @@ Representation of a project may be further defined and clarified by project main
 
 This Code of Conduct also applies outside the project spaces when the Project Stewards have a reasonable belief that
 an individual’s behavior may have a negative impact on the project or its community.
+
+## Conflict Resolution
+We do not believe that all conflict is bad; healthy debate and disagreement often yield positive results.
+However, it is never okay to be disrespectful or to engage in behavior that violates the project’s code of conduct.
+
+If you see someone violating the code of conduct, you are encouraged to address the behavior directly with those involved.
+Many issues can be resolved quickly and easily, and this gives people more control over the outcome of their dispute.
+If you are unable to resolve the matter for any reason, or if the behavior is threatening or harassing, report it.
+We are dedicated to providing an environment where participants feel welcome and safe.
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at
+[INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed
+necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard
+to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+
+## Attribution
+This Code of Conduct is adapted from:
+* [Go Lang Code of Conduct](https://go.dev/conduct)
+* [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
