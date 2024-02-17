@@ -57,5 +57,5 @@ In potentially harmful situations, such as ongoing harassment or threats to anyo
 
 ## Attribution
 This Code of Conduct is adapted from:
-* [Go Lang Code of Conduct](https://go.dev/conduct)
+* [Go Community Code of Conduct](https://go.dev/conduct)
 * [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
