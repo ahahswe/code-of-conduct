@@ -1,2 +1,2 @@
-# code-of-conduct
-X University's Code of Conduct
+![X University's logo in white color]
+(https://imgur.com/a/JAdBCL0)
