@@ -1,5 +1,5 @@
 ![X University's logo](https://iili.io/JEMl1un.md.png)
-# Code of Conduct
+# Code of conduct
 
 ## About
 Online communities include people from many different backgrounds. The XU contributors are committed to providing a friendly, 
