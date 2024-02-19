@@ -1,5 +1,21 @@
 ![X University's logo](https://iili.io/JEMl1un.md.png)
-# Code of Conduct
+# Code of conduct
+
+## About
+Online communities include people from many different backgrounds. The XU contributors are committed to providing a friendly, 
+safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, 
+neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
+
+The first goal of the Code of Conduct is to specify a baseline standard of behavior so that people with different 
+social values and communication styles can talk about XU effectively, productively, and respectfully.
+
+The second goal is to provide a mechanism for resolving conflicts in the community when they arise.
+
+The third goal of the Code of Conduct is to make our community welcoming to people from different backgrounds. 
+Diversity is critical to the project; for XU to be successful, it needs learners and contributors from all backgrounds.
+
+We believe that healthy debate and disagreement are essential to a healthy project and community. 
+However, it is never ok to be disrespectful. We value diverse opinions, but we value respectful behavior more.
 
 ## Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers
